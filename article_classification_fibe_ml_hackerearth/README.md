@@ -1,0 +1,2 @@
+LINK TO THE HACKATHON : https://www.hackerearth.com/challenges/hackathon/fibe-hack-the-vibe-2/#overview
+Build an epic text classification model using machine learning and other state-of-the-art techniques. Whether you're a solo visionary or part of a team of 2 members, we want you to bring your best ideas to the table. AI by developing cutting-edge models using a dataset of news articles. With over 870,000 samples at your disposal, you'll tackle the complexities of text classification and contribute to advancing AI technologies.
